@@ -1,0 +1,60 @@
+<nav class="nav-menu">
+    <ul class="nav-list">
+        <li>
+            <div class="small-flex">
+                <a href="#" class="nav-link">features</a>
+                <div class="drop-img">
+                    <img src="./images/icon-arrow-down.svg" alt="" class="arrow-down">
+                    <img src="./images/icon-arrow-up.svg" alt="" class="arrow-up">
+                </div>
+            </div>
+            <div class="drop-down drop-features">
+                <div class="each-drop">
+                    <img src="./images/icon-todo.svg" alt="todo">
+                    <p>todo list</p>
+                </div>
+                <div class="each-drop">
+                    <img src="./images/icon-calendar.svg" alt="todo">
+                    <p>calendar</p>
+                </div>
+                <div class="each-drop">
+                    <img src="./images/icon-reminders.svg" alt="todo">
+                    <p>reminders</p>
+                </div>
+                <div class="each-drop">
+                    <img src="./images/icon-planning.svg" alt="todo">
+                    <p>planning</p>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div>
+                <a href="#" class="nav-link">company</a>
+            <div class="drop-img">
+                <img src="./images/icon-arrow-down.svg" alt="" class="arrow-down">
+                <img src="./images/icon-arrow-up.svg" alt="" class="arrow-up">
+            </div>
+            </div>
+            <div class="drop-down drop-company">
+                <p>history</p>
+                <p>our team</p>
+                <p>blog</p>
+            </div>
+        </li>
+        <li>
+            <a href="#" class="nav-link">careers</a>
+        </li>
+        <li>
+            <a href="#" class="nav-link">about</a>
+        </li>
+    </ul>
+
+    <div>
+        <img src="./images/icon-close-menu.svg" class="close-menu" alt="close icon">
+    </div>
+
+    <div class="nav-reg">
+        <button class="login">login</button>
+        <button class="register">register</button>
+    </div>
+</nav>
